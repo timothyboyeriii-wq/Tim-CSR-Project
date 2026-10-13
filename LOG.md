@@ -52,15 +52,15 @@ verification procedures, corrections, and research decisions.
 
 ## SOURCE-001
 
-**Title:**  
-**Authors:**  
-**Publication:**  
-**Year:**  
+**Title:** "Why The New York Times' lawyers are inspecting OpenAI's code in a secretive room"
+**Authors:** Jacob Shamsian
+**Publication:** Oct 11
+**Year:** 2024
 **DOI:**  
 
-**Found Via:**  
+**Found Via:** Google
 
-**Publisher:**  
+**Publisher:**  Business Insider
 
 **DOI Verified:** Yes / No
 
@@ -76,17 +76,17 @@ verification procedures, corrections, and research decisions.
 
 ## CLAIM-001
 
-**Claim:**  
+**Claim:**  “As OpenAI transitioned from a small nonprofit research lab to a massive commercial powerhouse, its official claims shifted. IRS tax disclosures revealed that OpenAI changed its mission statement six times. Most notably, the company completely removed the word "safely" from its core mission statement and stripped out clauses regarding operating unconstrained by profit. Today, the company operates as a public benefit corporation (OpenAI Group PBC) backed by billions in private investment.”
 
-**Source:** SOURCE-001
+**Source:** Fortune, Yahoo Finance, OpenAI, The Conversation
 
 **Evidence Location:**  
 
 **Assessment:**  
-SUPPORTED / PARTIALLY SUPPORTED / CONTRADICTED / INSUFFICIENT EVIDENCE / UNVERIFIED
+ UNVERIFIED
 
 **Confidence:**  
-High / Medium / Low
+ Medium
 
 **Notes:**  
 
@@ -98,15 +98,15 @@ High / Medium / Low
 
 **Citation Provided By:**  
 
-**Citation:**  
+**Citation:**  Filed in December 2023, The New York Times Co. v. Microsoft Corp. et al. alleges copyright infringement and trademark dilution, claiming ChatGPT reproduces text verbatim and acts as a market substitute. The U.S. Judicial Panel on Multidistrict Litigation consolidated many of these federal copyright actions in the Southern District of New York before Judge Sidney Stein.
 
 **DOI:**  
 
 **Crossref Check:**  
-Verified / Not Found
+Verified 
 
 **Publisher Check:**  
-Verified / Not Found
+Verified 
 
 **scite Check:**  
 Supports / Contradicts / Mentions / Not Found
@@ -138,7 +138,7 @@ ACCEPT / REJECT / NEEDS REVIEW
 
 | ID | Decision | Reason |
 |---|---|---|
-| DEC-001 | | |
+| DEC-001 | OpenAI | I do not like this AI company |
 
 ---
 
